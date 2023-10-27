@@ -1,3 +1,4 @@
+// Package main print "Hello 世界"
 package main
 
 import "fmt"
